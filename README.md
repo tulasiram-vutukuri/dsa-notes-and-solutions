@@ -4,9 +4,9 @@ This repository contains my journey of learning Data Structures and Algorithms.
 
 I solve problems from platforms like LeetCode and GeeksforGeeks and document:
 
-* 💻 Solutions
-* 🧠 Approaches
-* 📝 Handwritten notes
+*  Solutions
+*  Approaches
+*  Handwritten notes
 
 ---
 
@@ -22,7 +22,11 @@ I solve problems from platforms like LeetCode and GeeksforGeeks and document:
 * Total Problems Solved: 0
 
 ---
+## 📌 Status
 
+This repository will be consistently updated as I continue learning and practicing Data Structures and Algorithms.
+
+---
 ## 🎯 Goal
 
 To master DSA and improve problem-solving skills for coding interviews.
