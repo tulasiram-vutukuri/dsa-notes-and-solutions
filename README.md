@@ -30,3 +30,9 @@ This repository will be consistently updated as I continue learning and practici
 ## 🎯 Goal
 
 To master DSA and improve problem-solving skills for coding interviews.
+
+---
+## 👤 Author
+
+Tulasi Ram Vutukuri  
+LinkedIn: https://www.linkedin.com/in/tulasi-ram-vutukuri
